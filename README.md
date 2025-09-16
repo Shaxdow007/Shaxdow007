@@ -1,21 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nour Eddine Houmame.</h1>
-<h3 align="center">A passionate full-stack developer from Morroccco.</h3>
-
-- 👨‍💻 All of my projects are available at [https://noureddinehm007.web.app](https://noureddinehm007.web.app)
-
-- 💬 Ask me about **ReactJS, Laravel, WordPress, Mysql, NoSql,PHP, JavaScript,TailwindCss.**
-
-- 📫 How to reach me **nourdinehoumame0@gmail.com**
-
-- ⚡ I'm open to**🤝  collaborating on Building responsive and dynamic web applications using React and Laravel,Creating custom WordPress sites and themes and Any projects where I can bring my skills in full-stack development to the table.**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Nour+Eddine;Full-Stack+Developer;From+Morocco" alt="Typing animation" />
   
-- 
-  ⚡  Shaxdow007
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nour-eddine-houmame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour-eddine-houmame" height="30" width="40" /></a>
-<a href="https://instagram.com/shaxdow007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noureddinehoumame" height="30" width="40" /></a>
-</p>
+  <p align="center">
+    <a href="https://noureddinehm007.web.app">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=#FFCA28" alt="Portfolio" />
+    </a>
+    <a href="mailto:nourdinehoumame0@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/nour-eddine-houmame">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+I'm a passionate full-stack developer from Morocco with expertise in building modern web applications. I enjoy creating seamless user experiences with clean, efficient code.
+
+- 🌱 I'm currently expanding my knowledge in **cloud technologies and advanced React patterns**
+- 👨‍💻 All my projects are available at [https://noureddinehm007.web.app](https://noureddinehm007.web.app)
+- 💬 Ask me about **ReactJS, Laravel, WordPress, MySQL, NoSQL, PHP, JavaScript, TailwindCSS**
+- ⚡ Fun fact: I go by the alias **Shaxdow007**
+
+---
+
+### 🤝 Collaboration Interests
+
+I'm open to collaborating on:
+- Building responsive and dynamic web applications using React and Laravel
+- Creating custom WordPress sites and themes
+- Any projects where I can bring my full-stack development skills to the table
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+#### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: **nourdinehoumame0@gmail.com**
+- 💼 LinkedIn: [nour-eddine-houmame](https://linkedin.com/in/nour-eddine-houmame)
+- 📷 Instagram: [@shaxdow007](https://instagram.com/shaxdow007)
+
+---
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+</div>
