@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nour%20Eddine%20Houmame&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Morocco&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c4a63,50:4E6B88,100:3a5c77&height=200&section=header&text=Nour%20Eddine%20Houmame&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Morocco&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+component+at+a+time.;React+%7C+Laravel+%7C+WordPress+%7C+Next.js;Crafting+clean+UI+%26+scalable+backends.;Open+to+collabs+%F0%9F%A4%9D+Let%27s+build+together!)](https://git.io/typing-svg)
@@ -60,22 +60,6 @@ const nourEddine = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaxdow007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxdow007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shaxdow007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
 
 ## 🤝 Open to Collaborate On
 
@@ -103,7 +87,7 @@ const nourEddine = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a5c77,50:4E6B88,100:2c4a63&height=120&section=footer&animation=fadeIn" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaxdow007&label=Profile+Views&color=A78BFA&style=flat)
 
